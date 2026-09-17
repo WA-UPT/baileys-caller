@@ -31,7 +31,7 @@
     "qrcode-terminal": "^0.12.0"
   },
   "peerDependencies": {
-    "@whiskeysockets/baileys": "npm:npm:wileys@0.7.8",
+    "@whiskeysockets/baileys": "npm:wileys@0.7.8",
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
